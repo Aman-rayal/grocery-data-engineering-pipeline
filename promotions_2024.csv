@@ -1,0 +1,531 @@
+promo_id,product_upc,promo_type,discount_percent,start_date,end_date,product_name,department_name,brand
+PR0011832,471349361832,PCT_OFF,15,2024-01-01,2024-01-07,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0019579,831727889579,LOYALTY_PCT,30,2024-01-01,2024-01-07,Sun Valley Tortillas,Grocery,Sun Valley
+PR0013186,190229413186,LOYALTY_PCT,5,2024-01-01,2024-01-07,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0011904,452991241904,PCT_OFF,30,2024-01-01,2024-01-07,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0015433,216073375433,BOGO50,50,2024-01-01,2024-01-07,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0016001,433218196001,PCT_OFF,30,2024-01-01,2024-01-07,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0016978,012269166978,PCT_OFF,15,2024-01-01,2024-01-07,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0013374,431351823374,BOGO50,50,2024-01-01,2024-01-07,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0016025,586923226025,PCT_OFF,25,2024-01-01,2024-01-07,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0011647,931034131647,LOYALTY_PCT,5,2024-01-01,2024-01-07,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0081832,471349361832,LOYALTY_PCT,20,2024-01-08,2024-01-14,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0083374,431351823374,PCT_OFF,20,2024-01-08,2024-01-14,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0081904,452991241904,BOGO50,50,2024-01-08,2024-01-14,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0085433,216073375433,PCT_OFF,20,2024-01-08,2024-01-14,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0086025,586923226025,PCT_OFF,25,2024-01-08,2024-01-14,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0081647,931034131647,BOGO50,50,2024-01-08,2024-01-14,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0083186,190229413186,BOGO50,50,2024-01-08,2024-01-14,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0085148,883561595148,PCT_OFF,5,2024-01-08,2024-01-14,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0080037,951343320037,LOYALTY_PCT,20,2024-01-08,2024-01-14,Frontier Foods Honey,Grocery,Frontier Foods
+PR0089579,831727889579,LOYALTY_PCT,25,2024-01-08,2024-01-14,Sun Valley Tortillas,Grocery,Sun Valley
+PR0150037,951343320037,LOYALTY_PCT,25,2024-01-15,2024-01-21,Frontier Foods Honey,Grocery,Frontier Foods
+PR0156978,012269166978,BOGO50,50,2024-01-15,2024-01-21,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0151647,931034131647,LOYALTY_PCT,20,2024-01-15,2024-01-21,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0155148,883561595148,LOYALTY_PCT,10,2024-01-15,2024-01-21,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0151904,452991241904,BOGO50,50,2024-01-15,2024-01-21,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0156001,433218196001,PCT_OFF,25,2024-01-15,2024-01-21,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0153374,431351823374,LOYALTY_PCT,10,2024-01-15,2024-01-21,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0151832,471349361832,LOYALTY_PCT,5,2024-01-15,2024-01-21,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0159579,831727889579,LOYALTY_PCT,30,2024-01-15,2024-01-21,Sun Valley Tortillas,Grocery,Sun Valley
+PR0153186,190229413186,LOYALTY_PCT,30,2024-01-15,2024-01-21,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0226001,433218196001,LOYALTY_PCT,5,2024-01-22,2024-01-28,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0221647,931034131647,BOGO50,50,2024-01-22,2024-01-28,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0226025,586923226025,LOYALTY_PCT,5,2024-01-22,2024-01-28,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0221904,452991241904,BOGO50,50,2024-01-22,2024-01-28,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0226978,012269166978,PCT_OFF,20,2024-01-22,2024-01-28,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0223374,431351823374,BOGO50,50,2024-01-22,2024-01-28,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0220037,951343320037,PCT_OFF,5,2024-01-22,2024-01-28,Frontier Foods Honey,Grocery,Frontier Foods
+PR0223186,190229413186,LOYALTY_PCT,15,2024-01-22,2024-01-28,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0225148,883561595148,LOYALTY_PCT,25,2024-01-22,2024-01-28,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0229579,831727889579,BOGO50,50,2024-01-22,2024-01-28,Sun Valley Tortillas,Grocery,Sun Valley
+PR0296001,433218196001,PCT_OFF,10,2024-01-29,2024-02-04,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0295433,216073375433,BOGO50,50,2024-01-29,2024-02-04,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0293374,431351823374,BOGO50,50,2024-01-29,2024-02-04,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0293186,190229413186,LOYALTY_PCT,10,2024-01-29,2024-02-04,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0291647,931034131647,BOGO50,50,2024-01-29,2024-02-04,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0296025,586923226025,PCT_OFF,20,2024-01-29,2024-02-04,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0299579,831727889579,PCT_OFF,30,2024-01-29,2024-02-04,Sun Valley Tortillas,Grocery,Sun Valley
+PR0291832,471349361832,BOGO50,50,2024-01-29,2024-02-04,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0296978,012269166978,PCT_OFF,20,2024-01-29,2024-02-04,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0291904,452991241904,PCT_OFF,30,2024-01-29,2024-02-04,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0360037,951343320037,PCT_OFF,25,2024-02-05,2024-02-11,Frontier Foods Honey,Grocery,Frontier Foods
+PR0366978,012269166978,LOYALTY_PCT,25,2024-02-05,2024-02-11,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0365433,216073375433,BOGO50,50,2024-02-05,2024-02-11,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0363186,190229413186,PCT_OFF,10,2024-02-05,2024-02-11,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0365148,883561595148,PCT_OFF,5,2024-02-05,2024-02-11,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0366025,586923226025,BOGO50,50,2024-02-05,2024-02-11,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0366001,433218196001,LOYALTY_PCT,25,2024-02-05,2024-02-11,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0369579,831727889579,BOGO50,50,2024-02-05,2024-02-11,Sun Valley Tortillas,Grocery,Sun Valley
+PR0361832,471349361832,PCT_OFF,20,2024-02-05,2024-02-11,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0361904,452991241904,BOGO50,50,2024-02-05,2024-02-11,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0436025,586923226025,BOGO50,50,2024-02-12,2024-02-18,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0431832,471349361832,BOGO50,50,2024-02-12,2024-02-18,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0431904,452991241904,PCT_OFF,5,2024-02-12,2024-02-18,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0430037,951343320037,LOYALTY_PCT,15,2024-02-12,2024-02-18,Frontier Foods Honey,Grocery,Frontier Foods
+PR0435148,883561595148,BOGO50,50,2024-02-12,2024-02-18,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0431647,931034131647,LOYALTY_PCT,30,2024-02-12,2024-02-18,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0433186,190229413186,LOYALTY_PCT,30,2024-02-12,2024-02-18,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0436978,012269166978,LOYALTY_PCT,20,2024-02-12,2024-02-18,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0435433,216073375433,LOYALTY_PCT,10,2024-02-12,2024-02-18,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0433374,431351823374,LOYALTY_PCT,20,2024-02-12,2024-02-18,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0503374,431351823374,PCT_OFF,25,2024-02-19,2024-02-25,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0501832,471349361832,BOGO50,50,2024-02-19,2024-02-25,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0506001,433218196001,BOGO50,50,2024-02-19,2024-02-25,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0503186,190229413186,PCT_OFF,25,2024-02-19,2024-02-25,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0500037,951343320037,BOGO50,50,2024-02-19,2024-02-25,Frontier Foods Honey,Grocery,Frontier Foods
+PR0509579,831727889579,LOYALTY_PCT,15,2024-02-19,2024-02-25,Sun Valley Tortillas,Grocery,Sun Valley
+PR0506025,586923226025,PCT_OFF,25,2024-02-19,2024-02-25,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0506978,012269166978,LOYALTY_PCT,10,2024-02-19,2024-02-25,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0505433,216073375433,BOGO50,50,2024-02-19,2024-02-25,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0501647,931034131647,PCT_OFF,25,2024-02-19,2024-02-25,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0570037,951343320037,PCT_OFF,5,2024-02-26,2024-03-03,Frontier Foods Honey,Grocery,Frontier Foods
+PR0575433,216073375433,LOYALTY_PCT,15,2024-02-26,2024-03-03,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0576025,586923226025,BOGO50,50,2024-02-26,2024-03-03,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0573374,431351823374,LOYALTY_PCT,10,2024-02-26,2024-03-03,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0576978,012269166978,PCT_OFF,10,2024-02-26,2024-03-03,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0575148,883561595148,BOGO50,50,2024-02-26,2024-03-03,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0571832,471349361832,LOYALTY_PCT,25,2024-02-26,2024-03-03,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0571904,452991241904,BOGO50,50,2024-02-26,2024-03-03,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0576001,433218196001,LOYALTY_PCT,10,2024-02-26,2024-03-03,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0573186,190229413186,LOYALTY_PCT,20,2024-02-26,2024-03-03,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0640037,951343320037,LOYALTY_PCT,5,2024-03-04,2024-03-10,Frontier Foods Honey,Grocery,Frontier Foods
+PR0643186,190229413186,LOYALTY_PCT,25,2024-03-04,2024-03-10,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0643374,431351823374,PCT_OFF,20,2024-03-04,2024-03-10,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0641904,452991241904,LOYALTY_PCT,30,2024-03-04,2024-03-10,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0645148,883561595148,BOGO50,50,2024-03-04,2024-03-10,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0649579,831727889579,BOGO50,50,2024-03-04,2024-03-10,Sun Valley Tortillas,Grocery,Sun Valley
+PR0646001,433218196001,LOYALTY_PCT,25,2024-03-04,2024-03-10,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0641832,471349361832,LOYALTY_PCT,30,2024-03-04,2024-03-10,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0646025,586923226025,LOYALTY_PCT,5,2024-03-04,2024-03-10,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0646978,012269166978,BOGO50,50,2024-03-04,2024-03-10,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0711832,471349361832,LOYALTY_PCT,30,2024-03-11,2024-03-17,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0711904,452991241904,LOYALTY_PCT,5,2024-03-11,2024-03-17,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0716978,012269166978,PCT_OFF,5,2024-03-11,2024-03-17,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0719579,831727889579,PCT_OFF,15,2024-03-11,2024-03-17,Sun Valley Tortillas,Grocery,Sun Valley
+PR0713186,190229413186,LOYALTY_PCT,5,2024-03-11,2024-03-17,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0710037,951343320037,PCT_OFF,10,2024-03-11,2024-03-17,Frontier Foods Honey,Grocery,Frontier Foods
+PR0713374,431351823374,BOGO50,50,2024-03-11,2024-03-17,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0715148,883561595148,PCT_OFF,20,2024-03-11,2024-03-17,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0711647,931034131647,LOYALTY_PCT,15,2024-03-11,2024-03-17,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0716025,586923226025,BOGO50,50,2024-03-11,2024-03-17,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0781647,931034131647,PCT_OFF,30,2024-03-18,2024-03-24,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0789579,831727889579,LOYALTY_PCT,10,2024-03-18,2024-03-24,Sun Valley Tortillas,Grocery,Sun Valley
+PR0786001,433218196001,LOYALTY_PCT,20,2024-03-18,2024-03-24,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0786025,586923226025,PCT_OFF,15,2024-03-18,2024-03-24,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0785148,883561595148,PCT_OFF,30,2024-03-18,2024-03-24,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0783186,190229413186,LOYALTY_PCT,25,2024-03-18,2024-03-24,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0786978,012269166978,BOGO50,50,2024-03-18,2024-03-24,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0781832,471349361832,LOYALTY_PCT,5,2024-03-18,2024-03-24,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0780037,951343320037,LOYALTY_PCT,15,2024-03-18,2024-03-24,Frontier Foods Honey,Grocery,Frontier Foods
+PR0783374,431351823374,PCT_OFF,5,2024-03-18,2024-03-24,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0851904,452991241904,PCT_OFF,5,2024-03-25,2024-03-31,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0853374,431351823374,BOGO50,50,2024-03-25,2024-03-31,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0851832,471349361832,PCT_OFF,25,2024-03-25,2024-03-31,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0856978,012269166978,PCT_OFF,10,2024-03-25,2024-03-31,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0859579,831727889579,LOYALTY_PCT,10,2024-03-25,2024-03-31,Sun Valley Tortillas,Grocery,Sun Valley
+PR0856001,433218196001,BOGO50,50,2024-03-25,2024-03-31,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0856025,586923226025,PCT_OFF,15,2024-03-25,2024-03-31,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0855433,216073375433,PCT_OFF,10,2024-03-25,2024-03-31,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0850037,951343320037,BOGO50,50,2024-03-25,2024-03-31,Frontier Foods Honey,Grocery,Frontier Foods
+PR0853186,190229413186,LOYALTY_PCT,10,2024-03-25,2024-03-31,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0923374,431351823374,PCT_OFF,15,2024-04-01,2024-04-07,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR0925433,216073375433,PCT_OFF,10,2024-04-01,2024-04-07,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0926978,012269166978,BOGO50,50,2024-04-01,2024-04-07,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0926025,586923226025,LOYALTY_PCT,25,2024-04-01,2024-04-07,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR0925148,883561595148,PCT_OFF,30,2024-04-01,2024-04-07,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0929579,831727889579,PCT_OFF,20,2024-04-01,2024-04-07,Sun Valley Tortillas,Grocery,Sun Valley
+PR0921647,931034131647,LOYALTY_PCT,15,2024-04-01,2024-04-07,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0920037,951343320037,BOGO50,50,2024-04-01,2024-04-07,Frontier Foods Honey,Grocery,Frontier Foods
+PR0926001,433218196001,BOGO50,50,2024-04-01,2024-04-07,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR0921904,452991241904,PCT_OFF,20,2024-04-01,2024-04-07,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0999579,831727889579,LOYALTY_PCT,20,2024-04-08,2024-04-14,Sun Valley Tortillas,Grocery,Sun Valley
+PR0991832,471349361832,BOGO50,50,2024-04-08,2024-04-14,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR0995148,883561595148,PCT_OFF,20,2024-04-08,2024-04-14,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR0996978,012269166978,BOGO50,50,2024-04-08,2024-04-14,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR0990037,951343320037,LOYALTY_PCT,5,2024-04-08,2024-04-14,Frontier Foods Honey,Grocery,Frontier Foods
+PR0995433,216073375433,PCT_OFF,15,2024-04-08,2024-04-14,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR0993186,190229413186,BOGO50,50,2024-04-08,2024-04-14,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR0991647,931034131647,PCT_OFF,5,2024-04-08,2024-04-14,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR0991904,452991241904,PCT_OFF,15,2024-04-08,2024-04-14,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR0993374,431351823374,BOGO50,50,2024-04-08,2024-04-14,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1065433,216073375433,BOGO50,50,2024-04-15,2024-04-21,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1065148,883561595148,LOYALTY_PCT,5,2024-04-15,2024-04-21,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1069579,831727889579,BOGO50,50,2024-04-15,2024-04-21,Sun Valley Tortillas,Grocery,Sun Valley
+PR1063186,190229413186,PCT_OFF,30,2024-04-15,2024-04-21,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1066001,433218196001,BOGO50,50,2024-04-15,2024-04-21,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1060037,951343320037,BOGO50,50,2024-04-15,2024-04-21,Frontier Foods Honey,Grocery,Frontier Foods
+PR1061904,452991241904,BOGO50,50,2024-04-15,2024-04-21,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1066025,586923226025,PCT_OFF,20,2024-04-15,2024-04-21,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1061832,471349361832,LOYALTY_PCT,10,2024-04-15,2024-04-21,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1061647,931034131647,LOYALTY_PCT,15,2024-04-15,2024-04-21,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1131904,452991241904,BOGO50,50,2024-04-22,2024-04-28,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1136001,433218196001,LOYALTY_PCT,5,2024-04-22,2024-04-28,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1135433,216073375433,PCT_OFF,5,2024-04-22,2024-04-28,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1133374,431351823374,PCT_OFF,20,2024-04-22,2024-04-28,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1133186,190229413186,PCT_OFF,30,2024-04-22,2024-04-28,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1131832,471349361832,BOGO50,50,2024-04-22,2024-04-28,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1136025,586923226025,LOYALTY_PCT,10,2024-04-22,2024-04-28,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1131647,931034131647,BOGO50,50,2024-04-22,2024-04-28,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1130037,951343320037,PCT_OFF,25,2024-04-22,2024-04-28,Frontier Foods Honey,Grocery,Frontier Foods
+PR1136978,012269166978,BOGO50,50,2024-04-22,2024-04-28,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1209579,831727889579,BOGO50,50,2024-04-29,2024-05-05,Sun Valley Tortillas,Grocery,Sun Valley
+PR1203186,190229413186,LOYALTY_PCT,15,2024-04-29,2024-05-05,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1203374,431351823374,PCT_OFF,25,2024-04-29,2024-05-05,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1206001,433218196001,BOGO50,50,2024-04-29,2024-05-05,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1205433,216073375433,PCT_OFF,10,2024-04-29,2024-05-05,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1201647,931034131647,BOGO50,50,2024-04-29,2024-05-05,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1201904,452991241904,LOYALTY_PCT,10,2024-04-29,2024-05-05,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1201832,471349361832,PCT_OFF,15,2024-04-29,2024-05-05,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1206978,012269166978,BOGO50,50,2024-04-29,2024-05-05,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1205148,883561595148,LOYALTY_PCT,5,2024-04-29,2024-05-05,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1270037,951343320037,LOYALTY_PCT,30,2024-05-06,2024-05-12,Frontier Foods Honey,Grocery,Frontier Foods
+PR1275148,883561595148,LOYALTY_PCT,15,2024-05-06,2024-05-12,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1271832,471349361832,LOYALTY_PCT,5,2024-05-06,2024-05-12,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1276001,433218196001,PCT_OFF,10,2024-05-06,2024-05-12,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1276978,012269166978,BOGO50,50,2024-05-06,2024-05-12,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1271647,931034131647,BOGO50,50,2024-05-06,2024-05-12,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1273186,190229413186,LOYALTY_PCT,5,2024-05-06,2024-05-12,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1276025,586923226025,PCT_OFF,30,2024-05-06,2024-05-12,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1271904,452991241904,BOGO50,50,2024-05-06,2024-05-12,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1275433,216073375433,PCT_OFF,5,2024-05-06,2024-05-12,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1341647,931034131647,BOGO50,50,2024-05-13,2024-05-19,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1349579,831727889579,LOYALTY_PCT,25,2024-05-13,2024-05-19,Sun Valley Tortillas,Grocery,Sun Valley
+PR1341832,471349361832,BOGO50,50,2024-05-13,2024-05-19,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1346001,433218196001,PCT_OFF,5,2024-05-13,2024-05-19,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1345433,216073375433,PCT_OFF,10,2024-05-13,2024-05-19,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1345148,883561595148,BOGO50,50,2024-05-13,2024-05-19,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1346025,586923226025,PCT_OFF,30,2024-05-13,2024-05-19,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1343374,431351823374,PCT_OFF,15,2024-05-13,2024-05-19,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1343186,190229413186,LOYALTY_PCT,30,2024-05-13,2024-05-19,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1340037,951343320037,LOYALTY_PCT,20,2024-05-13,2024-05-19,Frontier Foods Honey,Grocery,Frontier Foods
+PR1415148,883561595148,PCT_OFF,15,2024-05-20,2024-05-26,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1411904,452991241904,BOGO50,50,2024-05-20,2024-05-26,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1416001,433218196001,BOGO50,50,2024-05-20,2024-05-26,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1410037,951343320037,BOGO50,50,2024-05-20,2024-05-26,Frontier Foods Honey,Grocery,Frontier Foods
+PR1411832,471349361832,LOYALTY_PCT,25,2024-05-20,2024-05-26,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1411647,931034131647,BOGO50,50,2024-05-20,2024-05-26,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1419579,831727889579,LOYALTY_PCT,5,2024-05-20,2024-05-26,Sun Valley Tortillas,Grocery,Sun Valley
+PR1416978,012269166978,PCT_OFF,20,2024-05-20,2024-05-26,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1416025,586923226025,BOGO50,50,2024-05-20,2024-05-26,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1413374,431351823374,PCT_OFF,5,2024-05-20,2024-05-26,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1481832,471349361832,BOGO50,50,2024-05-27,2024-06-02,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1480037,951343320037,LOYALTY_PCT,10,2024-05-27,2024-06-02,Frontier Foods Honey,Grocery,Frontier Foods
+PR1481647,931034131647,PCT_OFF,20,2024-05-27,2024-06-02,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1486025,586923226025,BOGO50,50,2024-05-27,2024-06-02,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1485433,216073375433,BOGO50,50,2024-05-27,2024-06-02,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1489579,831727889579,PCT_OFF,25,2024-05-27,2024-06-02,Sun Valley Tortillas,Grocery,Sun Valley
+PR1486001,433218196001,BOGO50,50,2024-05-27,2024-06-02,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1486978,012269166978,BOGO50,50,2024-05-27,2024-06-02,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1481904,452991241904,LOYALTY_PCT,5,2024-05-27,2024-06-02,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1483374,431351823374,LOYALTY_PCT,30,2024-05-27,2024-06-02,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1556978,012269166978,LOYALTY_PCT,30,2024-06-03,2024-06-09,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1556001,433218196001,BOGO50,50,2024-06-03,2024-06-09,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1551647,931034131647,LOYALTY_PCT,15,2024-06-03,2024-06-09,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1551904,452991241904,PCT_OFF,20,2024-06-03,2024-06-09,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1553374,431351823374,PCT_OFF,15,2024-06-03,2024-06-09,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1555433,216073375433,PCT_OFF,25,2024-06-03,2024-06-09,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1556025,586923226025,LOYALTY_PCT,30,2024-06-03,2024-06-09,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1550037,951343320037,LOYALTY_PCT,5,2024-06-03,2024-06-09,Frontier Foods Honey,Grocery,Frontier Foods
+PR1551832,471349361832,LOYALTY_PCT,5,2024-06-03,2024-06-09,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1553186,190229413186,PCT_OFF,20,2024-06-03,2024-06-09,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1625148,883561595148,PCT_OFF,5,2024-06-10,2024-06-16,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1626001,433218196001,BOGO50,50,2024-06-10,2024-06-16,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1629579,831727889579,BOGO50,50,2024-06-10,2024-06-16,Sun Valley Tortillas,Grocery,Sun Valley
+PR1623374,431351823374,PCT_OFF,25,2024-06-10,2024-06-16,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1625433,216073375433,BOGO50,50,2024-06-10,2024-06-16,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1621904,452991241904,PCT_OFF,15,2024-06-10,2024-06-16,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1626025,586923226025,LOYALTY_PCT,30,2024-06-10,2024-06-16,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1623186,190229413186,BOGO50,50,2024-06-10,2024-06-16,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1621647,931034131647,PCT_OFF,10,2024-06-10,2024-06-16,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1621832,471349361832,PCT_OFF,10,2024-06-10,2024-06-16,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1690037,951343320037,BOGO50,50,2024-06-17,2024-06-23,Frontier Foods Honey,Grocery,Frontier Foods
+PR1691832,471349361832,LOYALTY_PCT,30,2024-06-17,2024-06-23,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1696025,586923226025,BOGO50,50,2024-06-17,2024-06-23,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1695148,883561595148,BOGO50,50,2024-06-17,2024-06-23,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1693374,431351823374,BOGO50,50,2024-06-17,2024-06-23,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1691904,452991241904,BOGO50,50,2024-06-17,2024-06-23,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1693186,190229413186,LOYALTY_PCT,30,2024-06-17,2024-06-23,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1695433,216073375433,LOYALTY_PCT,10,2024-06-17,2024-06-23,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1691647,931034131647,LOYALTY_PCT,5,2024-06-17,2024-06-23,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1699579,831727889579,LOYALTY_PCT,20,2024-06-17,2024-06-23,Sun Valley Tortillas,Grocery,Sun Valley
+PR1765433,216073375433,PCT_OFF,5,2024-06-24,2024-06-30,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1760037,951343320037,LOYALTY_PCT,15,2024-06-24,2024-06-30,Frontier Foods Honey,Grocery,Frontier Foods
+PR1761647,931034131647,PCT_OFF,30,2024-06-24,2024-06-30,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1766978,012269166978,PCT_OFF,25,2024-06-24,2024-06-30,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1763186,190229413186,BOGO50,50,2024-06-24,2024-06-30,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1765148,883561595148,BOGO50,50,2024-06-24,2024-06-30,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1769579,831727889579,LOYALTY_PCT,20,2024-06-24,2024-06-30,Sun Valley Tortillas,Grocery,Sun Valley
+PR1766025,586923226025,BOGO50,50,2024-06-24,2024-06-30,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1761832,471349361832,BOGO50,50,2024-06-24,2024-06-30,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1763374,431351823374,BOGO50,50,2024-06-24,2024-06-30,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1836978,012269166978,LOYALTY_PCT,5,2024-07-01,2024-07-07,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1831904,452991241904,LOYALTY_PCT,30,2024-07-01,2024-07-07,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR1835148,883561595148,PCT_OFF,25,2024-07-01,2024-07-07,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1831832,471349361832,BOGO50,50,2024-07-01,2024-07-07,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1833186,190229413186,PCT_OFF,5,2024-07-01,2024-07-07,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1830037,951343320037,PCT_OFF,30,2024-07-01,2024-07-07,Frontier Foods Honey,Grocery,Frontier Foods
+PR1839579,831727889579,LOYALTY_PCT,20,2024-07-01,2024-07-07,Sun Valley Tortillas,Grocery,Sun Valley
+PR1836001,433218196001,BOGO50,50,2024-07-01,2024-07-07,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1833374,431351823374,BOGO50,50,2024-07-01,2024-07-07,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1831647,931034131647,BOGO50,50,2024-07-01,2024-07-07,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1906025,586923226025,BOGO50,50,2024-07-08,2024-07-14,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1903186,190229413186,LOYALTY_PCT,5,2024-07-08,2024-07-14,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1905433,216073375433,LOYALTY_PCT,5,2024-07-08,2024-07-14,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR1900037,951343320037,BOGO50,50,2024-07-08,2024-07-14,Frontier Foods Honey,Grocery,Frontier Foods
+PR1906001,433218196001,BOGO50,50,2024-07-08,2024-07-14,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1901832,471349361832,LOYALTY_PCT,15,2024-07-08,2024-07-14,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1901647,931034131647,LOYALTY_PCT,30,2024-07-08,2024-07-14,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1909579,831727889579,BOGO50,50,2024-07-08,2024-07-14,Sun Valley Tortillas,Grocery,Sun Valley
+PR1906978,012269166978,BOGO50,50,2024-07-08,2024-07-14,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR1905148,883561595148,PCT_OFF,15,2024-07-08,2024-07-14,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1973374,431351823374,BOGO50,50,2024-07-15,2024-07-21,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR1975148,883561595148,PCT_OFF,15,2024-07-15,2024-07-21,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR1976025,586923226025,BOGO50,50,2024-07-15,2024-07-21,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR1973186,190229413186,LOYALTY_PCT,30,2024-07-15,2024-07-21,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR1970037,951343320037,LOYALTY_PCT,10,2024-07-15,2024-07-21,Frontier Foods Honey,Grocery,Frontier Foods
+PR1979579,831727889579,BOGO50,50,2024-07-15,2024-07-21,Sun Valley Tortillas,Grocery,Sun Valley
+PR1976001,433218196001,BOGO50,50,2024-07-15,2024-07-21,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR1971832,471349361832,BOGO50,50,2024-07-15,2024-07-21,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR1971647,931034131647,BOGO50,50,2024-07-15,2024-07-21,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR1975433,216073375433,BOGO50,50,2024-07-15,2024-07-21,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2043374,431351823374,LOYALTY_PCT,20,2024-07-22,2024-07-28,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2045433,216073375433,PCT_OFF,10,2024-07-22,2024-07-28,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2046001,433218196001,PCT_OFF,10,2024-07-22,2024-07-28,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2049579,831727889579,PCT_OFF,15,2024-07-22,2024-07-28,Sun Valley Tortillas,Grocery,Sun Valley
+PR2043186,190229413186,PCT_OFF,25,2024-07-22,2024-07-28,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2046978,012269166978,BOGO50,50,2024-07-22,2024-07-28,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2046025,586923226025,BOGO50,50,2024-07-22,2024-07-28,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2041904,452991241904,BOGO50,50,2024-07-22,2024-07-28,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2041647,931034131647,PCT_OFF,30,2024-07-22,2024-07-28,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2045148,883561595148,LOYALTY_PCT,25,2024-07-22,2024-07-28,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2116025,586923226025,LOYALTY_PCT,5,2024-07-29,2024-08-04,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2115148,883561595148,LOYALTY_PCT,15,2024-07-29,2024-08-04,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2116001,433218196001,BOGO50,50,2024-07-29,2024-08-04,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2111647,931034131647,BOGO50,50,2024-07-29,2024-08-04,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2119579,831727889579,PCT_OFF,20,2024-07-29,2024-08-04,Sun Valley Tortillas,Grocery,Sun Valley
+PR2113374,431351823374,BOGO50,50,2024-07-29,2024-08-04,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2113186,190229413186,LOYALTY_PCT,30,2024-07-29,2024-08-04,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2110037,951343320037,LOYALTY_PCT,10,2024-07-29,2024-08-04,Frontier Foods Honey,Grocery,Frontier Foods
+PR2115433,216073375433,BOGO50,50,2024-07-29,2024-08-04,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2111904,452991241904,PCT_OFF,15,2024-07-29,2024-08-04,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2181904,452991241904,PCT_OFF,25,2024-08-05,2024-08-11,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2181832,471349361832,PCT_OFF,15,2024-08-05,2024-08-11,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2183186,190229413186,PCT_OFF,30,2024-08-05,2024-08-11,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2181647,931034131647,LOYALTY_PCT,15,2024-08-05,2024-08-11,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2189579,831727889579,BOGO50,50,2024-08-05,2024-08-11,Sun Valley Tortillas,Grocery,Sun Valley
+PR2186001,433218196001,PCT_OFF,30,2024-08-05,2024-08-11,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2186025,586923226025,BOGO50,50,2024-08-05,2024-08-11,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2185433,216073375433,PCT_OFF,15,2024-08-05,2024-08-11,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2180037,951343320037,PCT_OFF,10,2024-08-05,2024-08-11,Frontier Foods Honey,Grocery,Frontier Foods
+PR2186978,012269166978,LOYALTY_PCT,20,2024-08-05,2024-08-11,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2259579,831727889579,PCT_OFF,20,2024-08-12,2024-08-18,Sun Valley Tortillas,Grocery,Sun Valley
+PR2256025,586923226025,BOGO50,50,2024-08-12,2024-08-18,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2256001,433218196001,LOYALTY_PCT,10,2024-08-12,2024-08-18,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2253374,431351823374,LOYALTY_PCT,5,2024-08-12,2024-08-18,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2251832,471349361832,LOYALTY_PCT,10,2024-08-12,2024-08-18,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2255148,883561595148,PCT_OFF,15,2024-08-12,2024-08-18,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2251904,452991241904,PCT_OFF,30,2024-08-12,2024-08-18,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2255433,216073375433,BOGO50,50,2024-08-12,2024-08-18,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2256978,012269166978,LOYALTY_PCT,10,2024-08-12,2024-08-18,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2251647,931034131647,PCT_OFF,5,2024-08-12,2024-08-18,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2320037,951343320037,PCT_OFF,10,2024-08-19,2024-08-25,Frontier Foods Honey,Grocery,Frontier Foods
+PR2321904,452991241904,BOGO50,50,2024-08-19,2024-08-25,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2326025,586923226025,BOGO50,50,2024-08-19,2024-08-25,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2325433,216073375433,BOGO50,50,2024-08-19,2024-08-25,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2329579,831727889579,BOGO50,50,2024-08-19,2024-08-25,Sun Valley Tortillas,Grocery,Sun Valley
+PR2321647,931034131647,LOYALTY_PCT,5,2024-08-19,2024-08-25,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2326978,012269166978,LOYALTY_PCT,10,2024-08-19,2024-08-25,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2323186,190229413186,LOYALTY_PCT,5,2024-08-19,2024-08-25,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2326001,433218196001,PCT_OFF,10,2024-08-19,2024-08-25,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2323374,431351823374,LOYALTY_PCT,30,2024-08-19,2024-08-25,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2395148,883561595148,PCT_OFF,15,2024-08-26,2024-09-01,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2391904,452991241904,LOYALTY_PCT,5,2024-08-26,2024-09-01,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2393374,431351823374,BOGO50,50,2024-08-26,2024-09-01,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2391647,931034131647,LOYALTY_PCT,10,2024-08-26,2024-09-01,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2395433,216073375433,BOGO50,50,2024-08-26,2024-09-01,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2390037,951343320037,LOYALTY_PCT,10,2024-08-26,2024-09-01,Frontier Foods Honey,Grocery,Frontier Foods
+PR2396001,433218196001,BOGO50,50,2024-08-26,2024-09-01,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2396978,012269166978,BOGO50,50,2024-08-26,2024-09-01,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2399579,831727889579,PCT_OFF,25,2024-08-26,2024-09-01,Sun Valley Tortillas,Grocery,Sun Valley
+PR2396025,586923226025,LOYALTY_PCT,5,2024-08-26,2024-09-01,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2469579,831727889579,LOYALTY_PCT,30,2024-09-02,2024-09-08,Sun Valley Tortillas,Grocery,Sun Valley
+PR2461647,931034131647,PCT_OFF,15,2024-09-02,2024-09-08,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2465433,216073375433,PCT_OFF,15,2024-09-02,2024-09-08,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2465148,883561595148,PCT_OFF,30,2024-09-02,2024-09-08,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2466978,012269166978,BOGO50,50,2024-09-02,2024-09-08,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2461832,471349361832,BOGO50,50,2024-09-02,2024-09-08,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2466001,433218196001,PCT_OFF,25,2024-09-02,2024-09-08,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2461904,452991241904,BOGO50,50,2024-09-02,2024-09-08,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2463186,190229413186,LOYALTY_PCT,10,2024-09-02,2024-09-08,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2463374,431351823374,PCT_OFF,15,2024-09-02,2024-09-08,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2539579,831727889579,LOYALTY_PCT,5,2024-09-09,2024-09-15,Sun Valley Tortillas,Grocery,Sun Valley
+PR2533186,190229413186,LOYALTY_PCT,10,2024-09-09,2024-09-15,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2536025,586923226025,PCT_OFF,10,2024-09-09,2024-09-15,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2531904,452991241904,PCT_OFF,15,2024-09-09,2024-09-15,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2531647,931034131647,LOYALTY_PCT,25,2024-09-09,2024-09-15,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2535433,216073375433,LOYALTY_PCT,25,2024-09-09,2024-09-15,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2533374,431351823374,LOYALTY_PCT,15,2024-09-09,2024-09-15,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2536001,433218196001,PCT_OFF,30,2024-09-09,2024-09-15,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2536978,012269166978,PCT_OFF,15,2024-09-09,2024-09-15,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2535148,883561595148,LOYALTY_PCT,5,2024-09-09,2024-09-15,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2605433,216073375433,PCT_OFF,20,2024-09-16,2024-09-22,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2603186,190229413186,BOGO50,50,2024-09-16,2024-09-22,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2600037,951343320037,LOYALTY_PCT,15,2024-09-16,2024-09-22,Frontier Foods Honey,Grocery,Frontier Foods
+PR2603374,431351823374,BOGO50,50,2024-09-16,2024-09-22,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2601647,931034131647,LOYALTY_PCT,5,2024-09-16,2024-09-22,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2601832,471349361832,BOGO50,50,2024-09-16,2024-09-22,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2606001,433218196001,LOYALTY_PCT,5,2024-09-16,2024-09-22,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2601904,452991241904,LOYALTY_PCT,25,2024-09-16,2024-09-22,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2605148,883561595148,PCT_OFF,25,2024-09-16,2024-09-22,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2609579,831727889579,LOYALTY_PCT,15,2024-09-16,2024-09-22,Sun Valley Tortillas,Grocery,Sun Valley
+PR2673374,431351823374,LOYALTY_PCT,15,2024-09-23,2024-09-29,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2671647,931034131647,LOYALTY_PCT,5,2024-09-23,2024-09-29,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2673186,190229413186,BOGO50,50,2024-09-23,2024-09-29,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2670037,951343320037,LOYALTY_PCT,25,2024-09-23,2024-09-29,Frontier Foods Honey,Grocery,Frontier Foods
+PR2679579,831727889579,LOYALTY_PCT,15,2024-09-23,2024-09-29,Sun Valley Tortillas,Grocery,Sun Valley
+PR2671832,471349361832,BOGO50,50,2024-09-23,2024-09-29,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2671904,452991241904,PCT_OFF,5,2024-09-23,2024-09-29,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2676001,433218196001,BOGO50,50,2024-09-23,2024-09-29,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2675433,216073375433,BOGO50,50,2024-09-23,2024-09-29,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2676025,586923226025,LOYALTY_PCT,15,2024-09-23,2024-09-29,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2749579,831727889579,PCT_OFF,10,2024-09-30,2024-10-06,Sun Valley Tortillas,Grocery,Sun Valley
+PR2745433,216073375433,BOGO50,50,2024-09-30,2024-10-06,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2746025,586923226025,LOYALTY_PCT,15,2024-09-30,2024-10-06,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2746978,012269166978,LOYALTY_PCT,25,2024-09-30,2024-10-06,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2745148,883561595148,PCT_OFF,25,2024-09-30,2024-10-06,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2746001,433218196001,PCT_OFF,30,2024-09-30,2024-10-06,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2740037,951343320037,LOYALTY_PCT,15,2024-09-30,2024-10-06,Frontier Foods Honey,Grocery,Frontier Foods
+PR2741832,471349361832,LOYALTY_PCT,20,2024-09-30,2024-10-06,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2741647,931034131647,PCT_OFF,25,2024-09-30,2024-10-06,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2743186,190229413186,PCT_OFF,25,2024-09-30,2024-10-06,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2813186,190229413186,LOYALTY_PCT,25,2024-10-07,2024-10-13,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2816001,433218196001,PCT_OFF,15,2024-10-07,2024-10-13,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2811647,931034131647,LOYALTY_PCT,30,2024-10-07,2024-10-13,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2810037,951343320037,LOYALTY_PCT,10,2024-10-07,2024-10-13,Frontier Foods Honey,Grocery,Frontier Foods
+PR2811832,471349361832,BOGO50,50,2024-10-07,2024-10-13,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR2816978,012269166978,LOYALTY_PCT,30,2024-10-07,2024-10-13,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2815433,216073375433,LOYALTY_PCT,10,2024-10-07,2024-10-13,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2813374,431351823374,PCT_OFF,10,2024-10-07,2024-10-13,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2811904,452991241904,PCT_OFF,20,2024-10-07,2024-10-13,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2816025,586923226025,PCT_OFF,30,2024-10-07,2024-10-13,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2881904,452991241904,BOGO50,50,2024-10-14,2024-10-20,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2883374,431351823374,BOGO50,50,2024-10-14,2024-10-20,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR2883186,190229413186,BOGO50,50,2024-10-14,2024-10-20,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2885148,883561595148,BOGO50,50,2024-10-14,2024-10-20,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2885433,216073375433,PCT_OFF,15,2024-10-14,2024-10-20,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2880037,951343320037,BOGO50,50,2024-10-14,2024-10-20,Frontier Foods Honey,Grocery,Frontier Foods
+PR2886001,433218196001,PCT_OFF,5,2024-10-14,2024-10-20,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR2886025,586923226025,PCT_OFF,10,2024-10-14,2024-10-20,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2889579,831727889579,PCT_OFF,20,2024-10-14,2024-10-20,Sun Valley Tortillas,Grocery,Sun Valley
+PR2886978,012269166978,PCT_OFF,15,2024-10-14,2024-10-20,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2959579,831727889579,BOGO50,50,2024-10-21,2024-10-27,Sun Valley Tortillas,Grocery,Sun Valley
+PR2955148,883561595148,BOGO50,50,2024-10-21,2024-10-27,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR2953186,190229413186,LOYALTY_PCT,25,2024-10-21,2024-10-27,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR2951904,452991241904,LOYALTY_PCT,20,2024-10-21,2024-10-27,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR2956025,586923226025,BOGO50,50,2024-10-21,2024-10-27,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR2950037,951343320037,PCT_OFF,10,2024-10-21,2024-10-27,Frontier Foods Honey,Grocery,Frontier Foods
+PR2956978,012269166978,LOYALTY_PCT,30,2024-10-21,2024-10-27,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR2955433,216073375433,PCT_OFF,20,2024-10-21,2024-10-27,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR2951647,931034131647,LOYALTY_PCT,30,2024-10-21,2024-10-27,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR2953374,431351823374,BOGO50,50,2024-10-21,2024-10-27,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3023186,190229413186,PCT_OFF,15,2024-10-28,2024-11-03,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3026025,586923226025,PCT_OFF,10,2024-10-28,2024-11-03,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3029579,831727889579,LOYALTY_PCT,30,2024-10-28,2024-11-03,Sun Valley Tortillas,Grocery,Sun Valley
+PR3025433,216073375433,PCT_OFF,15,2024-10-28,2024-11-03,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3025148,883561595148,BOGO50,50,2024-10-28,2024-11-03,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3021832,471349361832,LOYALTY_PCT,5,2024-10-28,2024-11-03,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR3020037,951343320037,LOYALTY_PCT,10,2024-10-28,2024-11-03,Frontier Foods Honey,Grocery,Frontier Foods
+PR3026978,012269166978,BOGO50,50,2024-10-28,2024-11-03,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3021647,931034131647,BOGO50,50,2024-10-28,2024-11-03,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3021904,452991241904,LOYALTY_PCT,10,2024-10-28,2024-11-03,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3095433,216073375433,BOGO50,50,2024-11-04,2024-11-10,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3090037,951343320037,BOGO50,50,2024-11-04,2024-11-10,Frontier Foods Honey,Grocery,Frontier Foods
+PR3095148,883561595148,BOGO50,50,2024-11-04,2024-11-10,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3099579,831727889579,BOGO50,50,2024-11-04,2024-11-10,Sun Valley Tortillas,Grocery,Sun Valley
+PR3093374,431351823374,LOYALTY_PCT,25,2024-11-04,2024-11-10,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3091647,931034131647,PCT_OFF,5,2024-11-04,2024-11-10,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3093186,190229413186,PCT_OFF,5,2024-11-04,2024-11-10,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3091904,452991241904,BOGO50,50,2024-11-04,2024-11-10,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3096001,433218196001,BOGO50,50,2024-11-04,2024-11-10,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3096978,012269166978,LOYALTY_PCT,30,2024-11-04,2024-11-10,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3161832,471349361832,PCT_OFF,30,2024-11-11,2024-11-17,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR3165148,883561595148,LOYALTY_PCT,15,2024-11-11,2024-11-17,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3166001,433218196001,LOYALTY_PCT,5,2024-11-11,2024-11-17,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3166978,012269166978,BOGO50,50,2024-11-11,2024-11-17,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3161904,452991241904,PCT_OFF,10,2024-11-11,2024-11-17,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3163186,190229413186,LOYALTY_PCT,20,2024-11-11,2024-11-17,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3160037,951343320037,LOYALTY_PCT,20,2024-11-11,2024-11-17,Frontier Foods Honey,Grocery,Frontier Foods
+PR3166025,586923226025,PCT_OFF,15,2024-11-11,2024-11-17,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3165433,216073375433,BOGO50,50,2024-11-11,2024-11-17,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3163374,431351823374,PCT_OFF,15,2024-11-11,2024-11-17,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3231647,931034131647,PCT_OFF,20,2024-11-18,2024-11-24,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3233186,190229413186,PCT_OFF,15,2024-11-18,2024-11-24,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3235433,216073375433,LOYALTY_PCT,10,2024-11-18,2024-11-24,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3236001,433218196001,PCT_OFF,5,2024-11-18,2024-11-24,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3236025,586923226025,PCT_OFF,15,2024-11-18,2024-11-24,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3239579,831727889579,LOYALTY_PCT,25,2024-11-18,2024-11-24,Sun Valley Tortillas,Grocery,Sun Valley
+PR3231904,452991241904,LOYALTY_PCT,10,2024-11-18,2024-11-24,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3230037,951343320037,PCT_OFF,15,2024-11-18,2024-11-24,Frontier Foods Honey,Grocery,Frontier Foods
+PR3236978,012269166978,BOGO50,50,2024-11-18,2024-11-24,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3233374,431351823374,BOGO50,50,2024-11-18,2024-11-24,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3303186,190229413186,LOYALTY_PCT,25,2024-11-25,2024-12-01,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3301832,471349361832,LOYALTY_PCT,10,2024-11-25,2024-12-01,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR3306025,586923226025,PCT_OFF,25,2024-11-25,2024-12-01,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3301904,452991241904,LOYALTY_PCT,5,2024-11-25,2024-12-01,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3309579,831727889579,PCT_OFF,15,2024-11-25,2024-12-01,Sun Valley Tortillas,Grocery,Sun Valley
+PR3305433,216073375433,LOYALTY_PCT,25,2024-11-25,2024-12-01,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3305148,883561595148,BOGO50,50,2024-11-25,2024-12-01,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3306001,433218196001,BOGO50,50,2024-11-25,2024-12-01,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3306978,012269166978,LOYALTY_PCT,15,2024-11-25,2024-12-01,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3300037,951343320037,BOGO50,50,2024-11-25,2024-12-01,Frontier Foods Honey,Grocery,Frontier Foods
+PR3376978,012269166978,LOYALTY_PCT,5,2024-12-02,2024-12-08,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3373374,431351823374,BOGO50,50,2024-12-02,2024-12-08,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3376001,433218196001,BOGO50,50,2024-12-02,2024-12-08,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3376025,586923226025,PCT_OFF,15,2024-12-02,2024-12-08,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3370037,951343320037,BOGO50,50,2024-12-02,2024-12-08,Frontier Foods Honey,Grocery,Frontier Foods
+PR3373186,190229413186,LOYALTY_PCT,5,2024-12-02,2024-12-08,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3379579,831727889579,LOYALTY_PCT,25,2024-12-02,2024-12-08,Sun Valley Tortillas,Grocery,Sun Valley
+PR3371832,471349361832,LOYALTY_PCT,25,2024-12-02,2024-12-08,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR3375148,883561595148,LOYALTY_PCT,25,2024-12-02,2024-12-08,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3371647,931034131647,BOGO50,50,2024-12-02,2024-12-08,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3445148,883561595148,PCT_OFF,25,2024-12-09,2024-12-15,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3443374,431351823374,BOGO50,50,2024-12-09,2024-12-15,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3446025,586923226025,LOYALTY_PCT,25,2024-12-09,2024-12-15,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3445433,216073375433,PCT_OFF,5,2024-12-09,2024-12-15,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3446001,433218196001,PCT_OFF,10,2024-12-09,2024-12-15,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3441647,931034131647,BOGO50,50,2024-12-09,2024-12-15,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3441904,452991241904,LOYALTY_PCT,20,2024-12-09,2024-12-15,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3440037,951343320037,BOGO50,50,2024-12-09,2024-12-15,Frontier Foods Honey,Grocery,Frontier Foods
+PR3443186,190229413186,LOYALTY_PCT,10,2024-12-09,2024-12-15,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3446978,012269166978,BOGO50,50,2024-12-09,2024-12-15,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3519579,831727889579,BOGO50,50,2024-12-16,2024-12-22,Sun Valley Tortillas,Grocery,Sun Valley
+PR3516025,586923226025,BOGO50,50,2024-12-16,2024-12-22,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3513186,190229413186,LOYALTY_PCT,30,2024-12-16,2024-12-22,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3515148,883561595148,BOGO50,50,2024-12-16,2024-12-22,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3515433,216073375433,LOYALTY_PCT,20,2024-12-16,2024-12-22,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3511832,471349361832,PCT_OFF,15,2024-12-16,2024-12-22,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR3510037,951343320037,LOYALTY_PCT,30,2024-12-16,2024-12-22,Frontier Foods Honey,Grocery,Frontier Foods
+PR3511904,452991241904,PCT_OFF,20,2024-12-16,2024-12-22,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3511647,931034131647,BOGO50,50,2024-12-16,2024-12-22,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3516001,433218196001,LOYALTY_PCT,30,2024-12-16,2024-12-22,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3581647,931034131647,PCT_OFF,25,2024-12-23,2024-12-29,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3585433,216073375433,LOYALTY_PCT,10,2024-12-23,2024-12-29,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3586978,012269166978,BOGO50,50,2024-12-23,2024-12-29,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3581904,452991241904,BOGO50,50,2024-12-23,2024-12-29,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3580037,951343320037,BOGO50,50,2024-12-23,2024-12-29,Frontier Foods Honey,Grocery,Frontier Foods
+PR3583186,190229413186,BOGO50,50,2024-12-23,2024-12-29,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3589579,831727889579,LOYALTY_PCT,10,2024-12-23,2024-12-29,Sun Valley Tortillas,Grocery,Sun Valley
+PR3586001,433218196001,BOGO50,50,2024-12-23,2024-12-29,Rainshadow Produce Apples,Produce,Rainshadow Produce
+PR3583374,431351823374,PCT_OFF,5,2024-12-23,2024-12-29,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3586025,586923226025,BOGO50,50,2024-12-23,2024-12-29,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3651647,931034131647,PCT_OFF,20,2024-12-30,2024-12-31,Rainshadow Produce Spinach,Produce,Rainshadow Produce
+PR3653374,431351823374,BOGO50,50,2024-12-30,2024-12-31,Everton Bulk Pistachios,Bulk,Everton Bulk
+PR3651832,471349361832,BOGO50,50,2024-12-30,2024-12-31,Meadow Meats Salmon Fillet,Meat/Seafood,Meadow Meats
+PR3656978,012269166978,LOYALTY_PCT,30,2024-12-30,2024-12-31,Rainshadow Produce Blueberries,Produce,Rainshadow Produce
+PR3651904,452991241904,BOGO50,50,2024-12-30,2024-12-31,Sunrise Labs Magnesium,Wellness,Sunrise Labs
+PR3656025,586923226025,PCT_OFF,30,2024-12-30,2024-12-31,Sun Valley Rolled Oats,Grocery,Sun Valley
+PR3655148,883561595148,PCT_OFF,25,2024-12-30,2024-12-31,Frontier Foods Olive Oil,Grocery,Frontier Foods
+PR3655433,216073375433,PCT_OFF,25,2024-12-30,2024-12-31,Sun Valley Basmati Rice,Grocery,Sun Valley
+PR3653186,190229413186,LOYALTY_PCT,30,2024-12-30,2024-12-31,Greenway Kitchen Tomato Soup,Deli,Greenway Kitchen
+PR3656001,433218196001,LOYALTY_PCT,25,2024-12-30,2024-12-31,Rainshadow Produce Apples,Produce,Rainshadow Produce
